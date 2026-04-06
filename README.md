@@ -42,5 +42,5 @@ The system operates via four decoupled, highly specialized microservices:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Smart-Recruiter/SR-system.git](https://github.com/Smart-Recruiter/SR-system.git)
+   git clone https://github.com/Smart-Recruiter/SR-system.git
    cd smart-recruiter
